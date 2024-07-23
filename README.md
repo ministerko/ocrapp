@@ -17,7 +17,7 @@ To get started with this project, follow the steps below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ocrapp.git
+git clone https://github.com/ministerko/ocrapp.git
 cd ocrapp
 ```
 
