@@ -12,7 +12,7 @@ router = APIRouter()
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-@router.post("/extract-text/")
+@router.post("/extract-text")
 async def extract_text(file: UploadFile = File(...)):
     upload_dir = Path("files")
     upload_dir.mkdir(parents=True, exist_ok=True)
