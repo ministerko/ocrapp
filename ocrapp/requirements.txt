@@ -7,3 +7,5 @@ Pillow==9.2.0
 python-docx==0.8.11
 numpy
 opencv-python
+PyMuPDF
+python-multipart
