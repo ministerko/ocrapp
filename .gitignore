@@ -133,4 +133,7 @@ dmypy.json
 # db
 *.sqlite3
 *.db
-ocrvenv
+ocrvenvorc.db
+ocrapp/app/orc.db
+ocrapp/orc.db
+ocrvenv/
