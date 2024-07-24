@@ -81,6 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, feel free to reach out:
 
 - **Email:** mwaijegakelvin@gmail.com
-- **GitHub:** [your-username](https://github.com/ministerko)
+- **GitHub:** [ministerko](https://github.com/ministerko)
 
 Happy coding! 🚀
