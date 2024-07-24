@@ -132,4 +132,5 @@ dmypy.json
 
 # db
 *.sqlite3
-*.db 
+*.db
+ocrvenv
